@@ -2,7 +2,7 @@
 
 🅺🅰🆁🆃🅷🅸🅺🅴🆈🅰🅽 🆅🅰🅸🆃🅷🅸🅻🅸🅽🅶🅰🅼
 
-I work as a Software Engineer.
+I work as a Solution Architect.
 
  - :bird: [@seenukarthi](https://twitter.com/seenukarthi/)
  - :memo: [Site](https://seenukarthi.com/)
